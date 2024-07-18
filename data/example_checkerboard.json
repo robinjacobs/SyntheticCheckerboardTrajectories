@@ -1,0 +1,7 @@
+{
+    "num_points_x": 6,
+    "num_points_y": 9,
+    "square_length_m": 0.03,
+    "fiducial_file": "geometry102.ini",
+    "mode": "planar"
+}
